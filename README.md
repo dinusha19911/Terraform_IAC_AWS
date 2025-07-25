@@ -17,10 +17,15 @@ The setup automates the provisioning of a basic AWS infrastructure, including:
 
 Terraform_IAC_AWS/
 ├── main.tf # Core infrastructure setup
+
 ├── variables.tf # Input variables
+
 ├── outputs.tf # Outputs after deployment
+
 ├── provider.tf # AWS provider configuration
+
 ├── userdata.sh # Bootstrap script for EC2
+
 └── README.md # Project documentation
 
 markdown
