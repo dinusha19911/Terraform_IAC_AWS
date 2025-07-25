@@ -16,6 +16,7 @@ The setup automates the provisioning of a basic AWS infrastructure, including:
 ## 📁 Repository Structure
 
 Terraform_IAC_AWS/
+
 ├── main.tf # Core infrastructure setup
 
 ├── variables.tf # Input variables
@@ -28,9 +29,6 @@ Terraform_IAC_AWS/
 
 └── README.md # Project documentation
 
-markdown
-Copy
-Edit
 
 ## 🧰 Requirements
 
